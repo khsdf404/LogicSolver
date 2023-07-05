@@ -1,0 +1,28 @@
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.exe
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.deps.json
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.runtimeconfig.json
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.runtimeconfig.dev.json
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.dll
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.pdb
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.csproj.AssemblyReference.cache
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.AssemblyInfoInputs.cache
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.AssemblyInfo.cs
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.csproj.CoreCompileInputs.cache
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.dll
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.pdb
+C:\Users\Kaars\Desktop\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.genruntimeconfig.cache
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.exe
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.deps.json
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.runtimeconfig.json
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.runtimeconfig.dev.json
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.dll
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\bin\Debug\netcoreapp3.1\CheckScreen.pdb
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.csproj.AssemblyReference.cache
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.AssemblyInfoInputs.cache
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.AssemblyInfo.cs
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.csproj.CoreCompileInputs.cache
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.dll
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.pdb
+D:\YandexDisk\1__Dir\Projects\ProcProg\Logic Solver\CheckScreen\CheckScreen\obj\Debug\netcoreapp3.1\CheckScreen.genruntimeconfig.cache

@@ -1,0 +1,172 @@
+
+    {
+    "massive" : [ 
+ {"key":"CursorRelative(30,0);          "}, 
+
+ {"key":"// 11111111111111111111111111111111"}, 
+
+ {"key":"CursorRelative(0,190);          "}, 
+
+ {"key":"LMB__Click();          "}, 
+
+ {"key":"CursorRelative(0,-190);     "}, 
+
+ {"key":"CursorRelative(0,215);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-215);     "}, 
+
+ {"key":"CursorRelative(0,350);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-350);     "}, 
+
+ {"key":"CursorRelative(0,125);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-125);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"CursorRelative(0,190);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-190);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"CursorRelative(0,280);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-280);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"CursorRelative(0,350);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-350);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"// 22222222222222222222222222222222"}, 
+
+ {"key":"CursorRelative(0,190);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-190);     "}, 
+
+ {"key":"CursorRelative(0,215);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-215);     "}, 
+
+ {"key":"CursorRelative(0,125);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"Delay(800); "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-125);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"CursorRelative(0,190);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-190);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"CursorRelative(0,125);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-125);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"CursorRelative(0,355);     "}, 
+
+ {"key":"LMB__Click();     "}, 
+
+ {"key":"CursorRelative(0,-355);     "}, 
+
+ {"key":"Delay(800);     "}, 
+
+ {"key":"// 333333333333333333333333333333"}, 
+
+ {"key":"CursorRelative(0,230);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"CursorRelative(0,-230);    "}, 
+
+ {"key":"CursorRelative(0,255);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"CursorRelative(0,-255);    "}, 
+
+ {"key":"CursorRelative(0,125);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"Delay(800);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"CursorRelative(0,-125); "}, 
+
+ {"key":"CursorRelative(0,185);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"CursorRelative(0,-185); "}, 
+
+ {"key":"Delay(800);    "}, 
+
+ {"key":"CursorRelative(0,360);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"CursorRelative(0,-360);    "}, 
+
+ {"key":"CursorRelative(0,230); "}, 
+
+ {"key":"LMB__Click(); "}, 
+
+ {"key":"CursorRelative(0,-230); "}, 
+
+ {"key":"Delay(800); "}, 
+
+ {"key":"CursorRelative(0,310);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"CursorRelative(0,-310);    "}, 
+
+ {"key":"Delay(800);    "}, 
+
+ {"key":"CursorRelative(0,360);    "}, 
+
+ {"key":"LMB__Click();    "}, 
+
+ {"key":"CursorRelative(0,-360);    "}, 
+
+ {"key":"Delay(800);    "}, 
+
+ {"key":"CursorRelative(-30,0);   "}
+ ]
+    }
